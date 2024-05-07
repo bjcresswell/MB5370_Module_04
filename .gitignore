@@ -22,5 +22,5 @@ archive/
 scratch/
 test/
 
-
+# Keywords to ignore
 *archive
